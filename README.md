@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Shikhasingg021/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -25,10 +26,15 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Shikhasingg021/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
