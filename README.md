@@ -40,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/Shikhasingg021/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->
