@@ -14,6 +14,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -44,4 +45,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Shikhasingg021/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 <!---LeetCode Topics End-->
