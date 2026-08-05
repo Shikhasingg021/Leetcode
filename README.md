@@ -14,6 +14,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -47,6 +48,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shikhasingg021/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -55,4 +57,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
