@@ -43,6 +43,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
 ## String
