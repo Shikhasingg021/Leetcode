@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Shikhasingg021/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -15,17 +16,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -45,6 +49,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -62,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
