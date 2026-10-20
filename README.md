@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Shikhasingg021/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -71,4 +73,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
