@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Shikhasingg021/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Shikhasingg021/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shikhasingg021/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -126,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Shikhasingg021/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
