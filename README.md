@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -20,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -116,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Shikhasingg021/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
