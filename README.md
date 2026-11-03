@@ -123,6 +123,7 @@
 | [0071-simplify-path](https://github.com/Shikhasingg021/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikhasingg021/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/Shikhasingg021/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Shikhasingg021/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Shikhasingg021/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -156,9 +157,11 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shikhasingg021/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shikhasingg021/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
