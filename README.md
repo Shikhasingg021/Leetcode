@@ -164,4 +164,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shikhasingg021/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Shikhasingg021/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
