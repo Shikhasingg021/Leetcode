@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/Shikhasingg021/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Math
@@ -57,6 +58,7 @@
 | [0009-palindrome-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Shikhasingg021/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/Shikhasingg021/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | [0071-simplify-path](https://github.com/Shikhasingg021/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Shikhasingg021/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/Shikhasingg021/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Shikhasingg021/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
