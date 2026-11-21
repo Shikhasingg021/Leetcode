@@ -60,6 +60,7 @@
 | [0268-missing-number](https://github.com/Shikhasingg021/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Shikhasingg021/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Shikhasingg021/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shikhasingg021/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
