@@ -13,6 +13,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/Shikhasingg021/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shikhasingg021/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Shikhasingg021/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shikhasingg021/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
